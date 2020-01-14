@@ -10,7 +10,7 @@
 
 Ретра проводится в конце спринта
 
-Длительность спринта определяется в регламенте спринта  (https://github.com/morshinin/retroregsmt/blob/master/retrospective_reglament_smt.md). 
+Длительность спринта определяется в регламенте спринта (https://github.com/morshinin/retroregsmt/blob/master/retrospective_reglament_smt.md). 
 В пятницу в 16. (Решено на ретре SMT 2016-09-30 Проводить ретру в конце спринта по его итогам. )
 
 ## Кто участвует в ретроспективе
