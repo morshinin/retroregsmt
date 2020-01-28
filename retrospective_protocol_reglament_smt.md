@@ -34,8 +34,8 @@ Site&Mailing team потом будет непонятно кто все же п
 
 У каждого протокола должны быть как минимум две метки:
 
-* retrospectives
-* retrospectives_smt
+* retrospective
+* retrospective_smt
 
 ## Статистика по спринту
 
