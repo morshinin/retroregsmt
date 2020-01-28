@@ -2,7 +2,7 @@
 
 *Дата создания: 26.12.2019
 Обновлено: 28.01.2020 
-Текущая версия: 0.7.3
+Текущая версия: 0.8.0
 Автор: Mikhail Morshinin (m.morshinin@b2b-center.ru)
 Команда: SMT (Site & mailing team)*
 
